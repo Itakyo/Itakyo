@@ -77,7 +77,7 @@ I believe that data, when correctly analyzed, holds the power to transform ideas
 
 ---
 
-### :hammer_and_wrench: Lenguajes y herramientas :
+### :hammer_and_wrench: My statistics:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
 

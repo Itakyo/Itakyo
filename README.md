@@ -14,9 +14,6 @@
   </a>
 </div>
 
-<div id="visitor-counter" align="center">
-  <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Itakyo.Itakyo&color=blue" alt="Visitor Counter"/>
-</div>
 
 ---
 

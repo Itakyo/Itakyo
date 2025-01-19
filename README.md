@@ -65,6 +65,7 @@
 
 ### 📫 Let's Connect!
 - **Email:** daleroba@gmail.com
+- **Celphone:** (+57) 311-501-698
 - **LinkedIn:** [linkedin.com/in/daleroba](https://www.linkedin.com/in/daleroba/)
 - **YouTube:** [@danielleonardorobeltobayon1266](https://www.youtube.com/@danielleonardorobeltobayon1266)
 - **Portfolio:** *Coming Soon!*

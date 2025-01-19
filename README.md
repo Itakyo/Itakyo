@@ -1,4 +1,6 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img decoding="async" src= "https://github.com/Itakyo/Coursera-Homeworks/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.jpg" width="800"/>
+</div>
 
 <!--
 **Itakyo/Itakyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

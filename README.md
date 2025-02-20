@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/Itakyo/Coursera-Homeworks/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.jpg" width="800" alt="Daniel Leonardo Robelto Bayona - Data Analyst"/>
+  <img decoding="async" src="[https://github.com/Itakyo/Coursera-Homeworks/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.jpg](https://raw.githubusercontent.com/Itakyo/Coursera-Homeworks/refs/heads/main/LinkedIn_Banner_Adjusted.png)" width="800" alt="Daniel Leonardo Robelto Bayona - Data Analyst"/>
 </div>
 
 <div id="badges" align="center">
